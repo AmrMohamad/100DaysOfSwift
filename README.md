@@ -6,10 +6,10 @@ In this repo, I wil share my progress of learning swift. The Challenge made by t
 
 <div class="image-container" style="display: flex; align-items: center; gap: 20px;">
         <a href="https://www.hackingwithswift.com/100">
-            <img src="./Docs/100_Days_of_Swift.png" alt="100_Days_of_Swift.png" width = 1000px >
+            <img src="./Docs/100_Days_of_Swift.png" alt="100_Days_of_Swift.png" width = 500px >
         </a>
         <a href="https://bignerdranch.com/blog/now-available-swift-programming-the-big-nerd-ranch-guide-third-edition/">
-            <img src="./Docs/Swift_book_cover_small.png" alt="Swift_book_cover_small.png" width = 800px >
+            <img src="./Docs/Swift_book_cover_small.png" alt="Swift_book_cover_small.png" width = 400px >
         </a>
     </div>
 
